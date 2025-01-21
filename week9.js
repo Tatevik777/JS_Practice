@@ -78,4 +78,4 @@ console.log(
 
 let str = "15";
 let strAsNumber = Number(str);
-console.log(typeof strAsNumber);
+console.log(typeof(strAsNumber));
